@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Souza"
+  given-names: "Matheus Paixão"
+title: "Split Payment Tributário - Prova de Conceito (LC 214/2025)"
+version: 1.0.0
+date-released: 2026-02-11
+url: "https://github.com/PSMatheus01/split-payment-poc"
