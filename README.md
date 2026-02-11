@@ -243,7 +243,7 @@ Esta POC é a base empírica do artigo:
 >
 > *Matheus Paixão Souza, [Coautor]*
 >
-> O artigo completo está disponível em [docs/artigo-split-payment-tributario.pdf](docs/artigo-split-payment-tributario.pdf).
+> O artigo completo está disponível em [docs/split-payment-tributario.pdf](docs/split-payment-tributario.pdf).
 
 ---
 
