@@ -265,4 +265,3 @@ Esta POC é a base empírica do artigo:
 Este projeto está licenciado sob a **MIT License**.
 
 *Desenvolvido como prova de conceito acadêmica — Fevereiro/2026*
-```
