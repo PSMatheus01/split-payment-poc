@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/Split Payment.jpg" width="100%" alt="Banner Split Payment"/>
+</div>
+
+<div align="center">
 
 # Split Payment Tributário — Prova de Conceito
 ### Liquidação Atômica para o Split Payment da Reforma Tributária Brasileira (LC 214/2025)
